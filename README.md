@@ -1,2 +1,2 @@
 # Primer_repo
-Mi primer repositorio
+Mi primer repositorio creado como ejemplo
